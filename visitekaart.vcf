@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:van Rijsingen;Michiel;;;
+FN:Michiel van Rijsingen
+ORG:Plano Plastics
+TITLE:Directeur
+TEL;TYPE=cell:+31 6 13052954
+TEL;TYPE=work:+31 40 251 00 10
+EMAIL:michiel@planoplastics.nl
+URL:https://planoplastics.nl
+LOGO;VALUE=URI:https://epoxyartgallery.nl/logo.png
+END:VCARD
